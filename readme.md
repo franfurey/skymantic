@@ -38,6 +38,8 @@ This repository contains examples and resources related to the concepts I'm expl
 
 - Complete the practice and testing of all the concepts.
 
+- Real world/data example. Using "Hidden Markov Models". 
+
 - Use DVC for data tracking and store the data in a Google Drive or an S3 bucket.
 
 - Implement a cron job concept and run it on an EC2 or ECS instance.
