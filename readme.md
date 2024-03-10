@@ -6,7 +6,7 @@ This repository contains examples and resources related to the concepts I'm expl
 
 1. Clone this repository:
     ```
-    git clone <https://github.com/franfurey/skymantic.git>
+    git clone https://github.com/franfurey/skymantic.git
     ```
 
 2. Create a virtual environment (venv):
