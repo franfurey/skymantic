@@ -34,6 +34,16 @@ This repository contains examples and resources related to the concepts I'm expl
     python -m ipykernel install --user --name skymantics --display-name "Skymantics"
     ```
 
+## Next Steps
+
+- Complete the practice and testing of all the concepts.
+
+- Use DVC for data tracking and store the data in a Google Drive or an S3 bucket.
+
+- Implement a cron job concept and run it on an EC2 or ECS instance.
+
+- Make the CI/CD pipeline more robust by adding environments, GitHub secrets, etc.
+
 ## Concepts to Explore
 
 ### KDE (Kernel Density Estimation)
