@@ -67,3 +67,7 @@ This repository contains examples and resources related to the concepts I'm expl
 ### Markov Models
 
 **What is it?** Markov models are stochastic models useful for modeling sequences of events where the conditional independence property is maintained.
+
+**Resources:**
+- [Tutorial on DataCamp](https://app.datacamp.com/workspace/w/6ee151d3-04da-433e-9d4d-f97ad6077d28/edit)
+- [Tutorial on Normalized Nerd channel](https://www.youtube.com/watch?v=i3AkTO9HLXo&list=PLM8wYQRetTxBkdvBtz-gw8b9lcVkdXQKV&index=1&ab_channel=NormalizedNerd)
