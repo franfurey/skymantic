@@ -1,6 +1,10 @@
 # Skymantics Repository
 
-This repository contains examples and resources related to the concepts I'm exploring during my interview at Skymantics.
+This repository contains examples and resources related to the concepts I'm exploring during my possible interview at Skymantics.
+
+It has examples of different concepts such as KDE, f_regression, markov models, k means and mutual information regression. 
+
+Also it makes tests of the .py files using pytest, and use a simple CICD to deploy in the master branch using Github Actions
 
 ## Usage Instructions for MACOS operating systems.
 
